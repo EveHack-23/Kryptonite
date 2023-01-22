@@ -1,0 +1,23 @@
+header{
+    margin-bottom: 2rem;
+}
+
+.head2{
+    padding: 3rem;
+}
+.head1{
+    padding: 3rem;
+    text-align: center;
+}
+.input{
+    width:60%;
+    height:3rem;
+    margin:3px
+}
+.btn{
+    margin: 3px;
+}
+.filter{
+    position: absolute;
+    right:30px
+}

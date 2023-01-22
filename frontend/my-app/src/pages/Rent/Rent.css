@@ -1,0 +1,10 @@
+header{
+    margin-bottom: 2rem;
+}
+.head{
+    background-color: rgb(230, 225, 225);
+}
+.input{
+    border-radius: 5px;
+    padding: 10px;
+}
